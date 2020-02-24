@@ -1,1 +1,4 @@
 remote_theme: pmarsceill/just-the-docs
+layout: page
+title: "About Guide"
+permalink: /about-guide/
